@@ -1,5 +1,12 @@
 # nexus-prover
 
+
+
+
+<img width="1000" alt="blog_header-vision-video" src="https://github.com/user-attachments/assets/cf09ceb6-2fb4-4bc4-b377-820893490545" />
+
+
+
 run nexus prover on cli
 
 install packages:
